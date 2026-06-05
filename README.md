@@ -1,6 +1,6 @@
 # ⚗️ VIRTUAL-LAB — 2D Physics Simulation Platform
 
-> A collaborative "Digital Twin" environment for university-level physics learning. Build machines, test structural integrity, and observe real-time forces in a shared, high-fidelity workspace.
+> A collaborative "Digital Twin" environment for university level physics learning. Build machines, test structural integrity, and observe real time forces in a shared, high fidelity workspace.
 
 ## 🚀 What is VIRTUAL-LAB?
 
